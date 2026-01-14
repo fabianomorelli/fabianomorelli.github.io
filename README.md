@@ -3,6 +3,7 @@
 Versão inicial de uma Homepage de projetos pessoais no github
 
 
-![www.inpe.br/queimadas]([[https://queimadas.dgi.inpe.br/queimadas/portal/imagens/logotipos/logo_conjugada_reduzida_150x53.png]](https://www.terrabrasilis.dpi.inpe.br/queimadas/portal/components/header/assets/img/LogoQmd.svg))
-
-
+<figure>
+<img src="https://data.inpe.br/queimadas/assets/img/logo-sit-atual.png">
+   <figcaption>Legenda.</figcaption>
+</figure>
